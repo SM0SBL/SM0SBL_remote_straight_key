@@ -1,4 +1,4 @@
-# SM0SBL_remote_straight_key
+# SM0SBL_remote_straight_key_client
 
 This repository contains a client to allow CW using a remote rig with preserved key timing.
 Togeather with the SM0SBL_remote_straight_key_server it workes as an exteded cable to the rig. To be able to keep the exact timing of the key on the local side there is a delay introduced to manage varying delays of the network.
